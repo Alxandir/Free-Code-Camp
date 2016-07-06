@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alxandir/npm-trial.git"
+  },
+  "author": "Alexander Horsfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alxandir/npm-trial/issues"
+  },
+  "homepage": "https://github.com/Alxandir/npm-trial#readme",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "fs": "0.0.2",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "strftime": "^0.9.2"
+  }
+}
